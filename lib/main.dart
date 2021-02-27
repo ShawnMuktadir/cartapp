@@ -1,7 +1,8 @@
-import 'package:cartapp/ProductModel.dart';
 import 'package:cartapp/screens/CheckoutScreen.dart';
 import 'package:cartapp/screens/ProductScreen.dart';
 import 'package:flutter/material.dart';
+
+import 'model/ProductModel.dart';
 
 void main() => runApp(MyApp());
 
